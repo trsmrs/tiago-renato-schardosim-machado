@@ -1,5 +1,18 @@
 # Desafio para o processo seletivo SHARENERGY 2023/01
 
+
+
+# Instalação e execução da aplicação
+Bom Primeiramente você deve abrir o projeto onde está o backEnd, instalar as dependências, e substituir o .env pelo original onde contém o banco de dados e a token jwt.
+Após isso execute o servidor com o seu comando de preferência.
+
+Em seguida abra a pasta do FrontEnd e instale as dependências, e execute a aplicação com seu comando de preferência.
+
+
+
+
+
+
 Repositório destinado aos interessados em participar do processo seletivo da SHARENERGY 2023/01. As vagas são voltadas para desenvolvimento de aplicações Web e Mobile.
 
 ## Sobre a SHARENERGY
